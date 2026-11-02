@@ -73,10 +73,10 @@ export const projects = [
 ]
 
 export const journey = [
-  { year: '2026', title: 'Full-Stack Intern', org: 'Technical Hub Pvt Ltd', text: 'May – June. Built web and mobile apps with React Native.', photo: 'img/photos/portrait-laptop.jpg', note: 'first internship!' },
-  { year: '2026', title: 'Top 100 Team', org: 'Myntra WeForShe HackerRamp', text: 'Built StarCloset, an AI stylist, with my team.', photo: 'img/photos/portrait-smile.jpg', note: 'so proud of this one' },
-  { year: '2023', title: 'B.Tech, Data Science', org: 'Aditya College of Engineering & Technology', text: '2023 – 2027 · CGPA 9.07 · Department Topper.', photo: 'img/photos/portrait-look.jpg', note: 'where it all started' },
-  { year: '2021', title: 'Intermediate (MPC)', org: 'Sri Chaitanya Junior College, Kakinada', text: 'Scored 90.6% in Maths, Physics & Chemistry.', photo: 'img/photos/portrait-seated.jpg', note: 'maths kid' },
+  { year: '2026', title: 'Full-Stack Intern', org: 'Xoriant Solutions Pvt Ltd', text: 'Project Manager.', photo: 'img/photos/portrait-laptop.jpg', note: 'At Present!' },
+  { year: '2022', title: 'Content Head', org: 'KPOINT Technologies Pvt Ltd', text: 'Content Head, an AI stylist, with my team.', photo: 'img/photos/portrait-smile.jpg', note: 'so proud of this one' },
+  { year: '2005', title: 'MBA, IT', org: 'Sh. Vaishnav Institute of Management', text: 'Second Topper', photo: 'img/photos/portrait-look.jpg', note: 'where it all started' },
+  { year: '1997', title: 'Graduate', org: 'DAVV, Indore', text: 'PCB', photo: 'img/photos/portrait-seated.jpg', note: 'Notorious kid' },
 ]
 
 export const skills = [
