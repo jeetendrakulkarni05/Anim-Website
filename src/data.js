@@ -73,7 +73,7 @@ export const projects = [
 ]
 
 export const journey = [
-  { year: '2026', title: 'Full-Stack Intern', org: 'Xoriant Solutions Pvt Ltd', text: 'Project Manager.', photo: 'img/photos/portrait-laptop.jpg', note: 'At Present!' },
+  { year: '2026', title: 'Project Manager', org: 'Xoriant Solutions Pvt Ltd', text: '', photo: 'img/photos/portrait-laptop.jpg', note: 'At Present!' },
   { year: '2022', title: 'Content Head', org: 'KPOINT Technologies Pvt Ltd', text: 'Content Head, an AI stylist, with my team.', photo: 'img/photos/portrait-smile.jpg', note: 'so proud of this one' },
   { year: '2005', title: 'MBA, IT', org: 'Sh. Vaishnav Institute of Management', text: 'Second Topper', photo: 'img/photos/portrait-look.jpg', note: 'where it all started' },
   { year: '1997', title: 'Graduate', org: 'DAVV, Indore', text: 'PCB', photo: 'img/photos/portrait-seated.jpg', note: 'Notorious kid' },
