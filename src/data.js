@@ -31,14 +31,13 @@ export const about = {
   // one role per photo, shown under it (click the stack to cycle)
   roles: ['Full-Stack Developer', 'Data Scientist', 'Tech Influencer', 'UI/UX Designer'],
   paragraphs: [
-    "Hi! I'm Lohitha, a full-stack developer and B.Tech Data Science student at Aditya College of Engineering & Technology.",
-    'I love building products end to end: React interfaces that feel good, Node and FastAPI backends that scale, and AI features that actually help people.',
-  ],
+    "Hi! I'm Jeetendra Kulkarni (Jeet), a WordPress Developer, Creative Designer, and AI Solutions Specialist with 10+ years of experience building digital experiences and innovative solutions.", 'I love turning ideas into reality — from creating stunning WordPress websites and engaging UI designs to building AI-powered applications, intelligent automation workflows, and digital products that make a real impact.',
+    ],
   stats: [
     { value: '9.07', label: 'CGPA · Department Topper' },
     { value: '1,230+', label: 'DSA problems solved' },
     { value: '3', label: 'AI products shipped' },
-    { value: '8', label: 'Certifications' },
+    { value: '10+', label: 'Certifications' },
   ],
 }
 
