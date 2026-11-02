@@ -81,8 +81,8 @@ export const journey = [
 ]
 
 export const skills = [
-  'React', 'Node.js', 'TypeScript', 'JavaScript', 'Python', 'Java', 'C++', 'SQL',
-  'Express', 'FastAPI', 'Spring Boot', 'React Native', 'Tailwind', 'MongoDB', 'PostgreSQL',
+  'React', 'Node.js', 'Wordpress', 'JavaScript', 'Python', 'Java', 'VisualStudio', 'SQL',
+  'Claude', 'AntiGravity', 'Spring Boot', 'React Native', 'Tailwind', 'MongoDB', 'PostgreSQL',
   'MySQL', 'Redis', 'Docker', 'Git', 'Postman', 'Electron', 'JWT', 'OpenAI', 'scikit-learn',
 ]
 
