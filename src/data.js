@@ -6,14 +6,14 @@
    ════════════════════════════════════════════════════════════ */
 
 export const profile = {
-  name: 'Lohitha',
-  full: 'Damisetti Shamya Lohitha',
-  role: 'Full-stack developer',
-  location: 'Andhra Pradesh, India',
-  email: 'damisettilohitha@gmail.com',
+  name: 'Jeet',
+  full: 'Jeet kulkarni',
+  role: 'Project Manager / Content Creator / Web Developer',
+  location: 'Maharashtra, India',
+  email: 'jeetendrakulkarni05@gmail.com',
   intro: 'I build friendly, AI-powered web apps with React, Node.js and Python, from the first pixel to the last API call.',
-  github: 'https://github.com/lohithadamisetti123',
-  linkedin: 'https://www.linkedin.com/search/results/all/?keywords=lohitha%20damisetti', // TODO: your exact profile URL
+  github: 'https://github.com/jeetendrakulkarni05',
+  linkedin: 'https://www.linkedin.com/in/jeetendrakulkarni1/', // TODO: your exact profile URL
   resume: '', // optional: 'resume.pdf' in /public, WITHOUT your phone number
   avatar: 'img/faces/smile.jpg',
 }
@@ -50,7 +50,7 @@ export const projects = [
     visual: 'gauge',
     text: 'Reads privacy policies and contracts across web, desktop and mobile, flags risky clauses and gives every document a risk score.',
     tech: ['React', 'React Native', 'Electron', 'Node.js', 'OpenAI'],
-    link: 'https://github.com/lohithadamisetti123', // TODO: exact repo
+    link: 'https://github.com/jeetendrakulkarni05', // TODO: exact repo
     color: '#FFE5D9',
   },
   {
@@ -59,7 +59,7 @@ export const projects = [
     visual: 'heatmap',
     text: 'A Random Forest model that predicts risky software releases, shown on a live heatmap across teams and modules.',
     tech: ['React', 'TypeScript', 'FastAPI', 'scikit-learn', 'PostgreSQL'],
-    link: 'https://github.com/lohithadamisetti123',
+    link: 'https://github.com/jeetendrakulkarni05',
     color: '#FFD9CC',
   },
   {
@@ -68,7 +68,7 @@ export const projects = [
     visual: 'outfit',
     text: 'An AI stylist that builds head-to-toe outfits from your vibe, occasion and budget, with chatty stylist personas.',
     tech: ['React', 'Go', 'Redis', 'PostgreSQL', 'LLMs'],
-    link: 'https://github.com/lohithadamisetti123',
+    link: 'https://github.com/jeetendrakulkarni05',
     color: '#FFEDE5',
   },
 ]
